@@ -1,0 +1,97 @@
+Script started on Fri Mar  9 14:00:45 2018
+[?1034hbash-3.2$ ls
+README.md	main.py		raw_data	typescript
+bash-3.2$ ls raw_data
+README.md				election_data_1_20180309-134527.txt	election_data_2_20180309-134527.txt
+election_data_1.csv			election_data_2.csv
+bash-3.2$ python main.py
+This program should be run in a directory where there is a directory called 'raw_data'.
+In the raw_data directory should be the election results files.
+The name of these files should be in the form of 'election_results_###.csv'.
+The file type is csv(comma separated values). The ### denote the number of the file, 
+for example:  'election_results_001.csv' or 'election_results_101.csv'.
+The number should only be digits and there should be no two files with the same digits
+Each file has one header row 'Voter ID', 'Country', 'Candidate'.  Following header row
+each record has three fields of type: integer, text, text. For each record, only two comma's can
+on each line.
+Enter (y)es or (n)o
+Is this python script in a directory that contains a directory named 'raw_data'?y
+Are election result files contained in the 'raw_data' directory?y
+Are the election result files in the formate of: 'election_data_###.csv'?y
+
+
+2 election_data_###.csv files found in raw_data directory
+Processing file: /Users/jwarlop/dev/DataViz/python-challenge/PyPoll/raw_data/election_data_1.csv
+Processing file: /Users/jwarlop/dev/DataViz/python-challenge/PyPoll/raw_data/election_data_2.csv
+
+
+Election Results
+
+---------------------
+Total Votes: 803000
+---------------------
+Vestal    : 48.00% (385440)
+Torres    : 44.00% (353320)
+Seth      : 5.00% (40150)
+Cordin    : 3.00% (24090)
+---------------------
+Winner: Vestal
+---------------------
+
+
+
+
+Total Votes: 3521001
+---------------------
+Khan      : 63.00% (2218231)
+Correy    : 20.00% (704200)
+Li        : 14.00% (492940)
+O'Tooley  : 3.00% (105630)
+---------------------
+Winner: Khan
+---------------------
+
+
+
+
+bash-3.2$ ls raw_data
+README.md				election_data_1_20180309-134527.txt	election_data_2.csv			election_data_2_20180309-140113.txt
+election_data_1.csv			election_data_1_20180309-140113.txt	election_data_2_20180309-134527.txt
+bash-3.2$ cat raw_data/election_data_1_20180309-140113.txt
+
+
+Election Results
+
+---------------------
+Total Votes: 803000
+---------------------
+Vestal    : 48.00% (385440)
+Torres    : 44.00% (353320)
+Seth      : 5.00% (40150)
+Cordin    : 3.00% (24090)
+---------------------
+Winner: Vestal
+---------------------
+
+
+
+bash-3.2$ c[Kcat raw_data/election_data_1_20180309-140113.txt[1P_20180309-140113.txt2_20180309-140113.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Total Votes: 3521001
+---------------------
+Khan      : 63.00% (2218231)
+Correy    : 20.00% (704200)
+Li        : 14.00% (492940)
+O'Tooley  : 3.00% (105630)
+---------------------
+Winner: Khan
+---------------------
+
+
+
+bash-3.2$ pwd
+/Users/jwarlop/dev/DataViz/python-challenge/PyPoll
+bash-3.2$ ls
+README.md	main.py		raw_data	typescript
+bash-3.2$ exit
+
+Script done on Fri Mar  9 14:02:33 2018

@@ -1,0 +1,71 @@
+Script started on Fri Mar  9 18:09:34 2018
+[?1034hbash-3.2$ date
+Fri Mar  9 18:09:36 PST 2018
+bash-3.2$ pwd
+/Users/jwarlop/dev/DataViz/python-challenge/PyBank
+bash-3.2$ ls
+README.md	main.py		raw_data	typescript
+bash-3.2$ ls raw_data
+README.md		budget_data_1.csv	budget_data_2.csv
+bash-3.2$ python main.py
+
+
+
+
+
+Financial Analysis for budget_data_1.csv
+-----------------------------------
+Total Months: 41
+Total Revenue: $18971412
+Average Revenue Change: $-6758.98
+Greatest Increase in Revenue: Feb-16 ($1837235)
+Greatest Decrease in Revenue: Aug-14 ($-1779747)
+
+
+
+
+
+
+Financial Analysis for budget_data_2.csv
+-----------------------------------
+Total Months: 86
+Total Revenue: $36973911
+Average Revenue Change: $-5955.31
+Greatest Increase in Revenue: Jul-14 ($1645140)
+Greatest Decrease in Revenue: Jun-14 ($-1947745)
+
+bash-3.2$ ls raw_data
+README.md				budget_data_2.csv
+budget_data_1.csv			budget_data_2_20180309-180951.txt
+budget_data_1_20180309-180951.txt
+bash-3.2$ cat raw_data/budget_data_1_20180309-180951.txt
+
+
+
+
+
+Financial Analysis for budget_data_1.csv
+-----------------------------------
+Total Months: 41
+Total Revenue: $18971412
+Average Revenue Change: $-6758.98
+Greatest Increase in Revenue: Feb-16 ($1837235)
+Greatest Decrease in Revenue: Aug-14 ($-1779747)
+bash-3.2$ cat raw_data/budget_data_1_20180309-180951.txt[1P_20180309-180951.txt2_20180309-180951.txt
+
+
+
+
+
+Financial Analysis for budget_data_2.csv
+-----------------------------------
+Total Months: 86
+Total Revenue: $36973911
+Average Revenue Change: $-5955.31
+Greatest Increase in Revenue: Jul-14 ($1645140)
+Greatest Decrease in Revenue: Jun-14 ($-1947745)
+bash-3.2$ date
+Fri Mar  9 18:10:38 PST 2018
+bash-3.2$ exit
+
+Script done on Fri Mar  9 18:10:43 2018

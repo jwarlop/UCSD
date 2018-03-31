@@ -1,0 +1,6 @@
+# This file lists files that will be ignored by git
+# This file was placed in same directory as the files below
+# Git will ignore these files 3/6/18
+election_data_1.csv
+election_data_2.csv
+*.txt
