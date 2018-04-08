@@ -1,0 +1,109 @@
+INFO 2018-04-08 08:33:20,777 - Loading API keys
+INFO 2018-04-08 08:33:20,778 - Keys loaded
+INFO 2018-04-08 08:33:21,224 - Sending keys to twitter
+INFO 2018-04-08 08:33:21,226 - Keys accepted by twitter
+INFO 2018-04-08 08:33:34,721 - Analyzing sentiment for BBC
+INFO 2018-04-08 08:33:34,735 - BBC analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Sun Apr 08 15:31:00 +0000 2018'}
+INFO 2018-04-08 08:33:34,735 - Analyzing tweet 0 of 200 from BBC
+INFO 2018-04-08 08:33:34,908 - BBC analysis is: {'neg': 0.129, 'neu': 0.703, 'pos': 0.168, 'compound': 0.0018, 'dtime': 'Sat Apr 07 12:07:08 +0000 2018'}
+INFO 2018-04-08 08:33:34,908 - Analyzing tweet 20 of 200 from BBC
+INFO 2018-04-08 08:33:35,088 - BBC analysis is: {'neg': 0.282, 'neu': 0.332, 'pos': 0.385, 'compound': 0.5499, 'dtime': 'Fri Apr 06 15:02:05 +0000 2018'}
+INFO 2018-04-08 08:33:35,088 - Analyzing tweet 40 of 200 from BBC
+INFO 2018-04-08 08:33:35,249 - BBC analysis is: {'neg': 0.118, 'neu': 0.724, 'pos': 0.159, 'compound': 0.0028, 'dtime': 'Thu Apr 05 12:59:08 +0000 2018'}
+INFO 2018-04-08 08:33:35,249 - Analyzing tweet 60 of 200 from BBC
+INFO 2018-04-08 08:33:35,423 - BBC analysis is: {'neg': 0.062, 'neu': 0.938, 'pos': 0.0, 'compound': -0.1531, 'dtime': 'Wed Apr 04 17:02:05 +0000 2018'}
+INFO 2018-04-08 08:33:35,423 - Analyzing tweet 80 of 200 from BBC
+INFO 2018-04-08 08:33:35,585 - BBC analysis is: {'neg': 0.304, 'neu': 0.576, 'pos': 0.119, 'compound': -0.5411, 'dtime': 'Tue Apr 03 17:03:04 +0000 2018'}
+INFO 2018-04-08 08:33:35,585 - Analyzing tweet 100 of 200 from BBC
+INFO 2018-04-08 08:33:35,749 - BBC analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Tue Apr 03 09:29:03 +0000 2018'}
+INFO 2018-04-08 08:33:35,749 - Analyzing tweet 120 of 200 from BBC
+INFO 2018-04-08 08:33:35,918 - BBC analysis is: {'neg': 0.14, 'neu': 0.86, 'pos': 0.0, 'compound': -0.2732, 'dtime': 'Mon Apr 02 07:26:06 +0000 2018'}
+INFO 2018-04-08 08:33:35,918 - Analyzing tweet 140 of 200 from BBC
+INFO 2018-04-08 08:33:36,086 - BBC analysis is: {'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.6705, 'dtime': 'Sun Apr 01 09:24:05 +0000 2018'}
+INFO 2018-04-08 08:33:36,086 - Analyzing tweet 160 of 200 from BBC
+INFO 2018-04-08 08:33:36,248 - BBC analysis is: {'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.6369, 'dtime': 'Sat Mar 31 09:04:03 +0000 2018'}
+INFO 2018-04-08 08:33:36,248 - Analyzing tweet 180 of 200 from BBC
+INFO 2018-04-08 08:33:36,402 - Analyzing sentiment for CBS
+INFO 2018-04-08 08:33:36,410 - CBS analysis is: {'neg': 0.0, 'neu': 0.92, 'pos': 0.08, 'compound': 0.4199, 'dtime': 'Sun Apr 08 15:00:00 +0000 2018'}
+INFO 2018-04-08 08:33:36,410 - Analyzing tweet 0 of 200 from CBS
+INFO 2018-04-08 08:33:36,574 - CBS analysis is: {'neg': 0.0, 'neu': 0.659, 'pos': 0.341, 'compound': 0.807, 'dtime': 'Tue Apr 03 05:17:01 +0000 2018'}
+INFO 2018-04-08 08:33:36,574 - Analyzing tweet 20 of 200 from CBS
+INFO 2018-04-08 08:33:36,738 - CBS analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Sat Mar 24 22:21:34 +0000 2018'}
+INFO 2018-04-08 08:33:36,738 - Analyzing tweet 40 of 200 from CBS
+INFO 2018-04-08 08:33:36,911 - CBS analysis is: {'neg': 0.0, 'neu': 0.845, 'pos': 0.155, 'compound': 0.6166, 'dtime': 'Sat Mar 17 17:42:43 +0000 2018'}
+INFO 2018-04-08 08:33:36,912 - Analyzing tweet 60 of 200 from CBS
+INFO 2018-04-08 08:33:37,080 - CBS analysis is: {'neg': 0.0, 'neu': 0.889, 'pos': 0.111, 'compound': 0.6688, 'dtime': 'Thu Mar 08 17:03:04 +0000 2018'}
+INFO 2018-04-08 08:33:37,081 - Analyzing tweet 80 of 200 from CBS
+INFO 2018-04-08 08:33:37,244 - CBS analysis is: {'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.4404, 'dtime': 'Wed Feb 28 19:08:30 +0000 2018'}
+INFO 2018-04-08 08:33:37,244 - Analyzing tweet 100 of 200 from CBS
+INFO 2018-04-08 08:33:37,408 - CBS analysis is: {'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.6124, 'dtime': 'Sat Feb 17 01:07:20 +0000 2018'}
+INFO 2018-04-08 08:33:37,408 - Analyzing tweet 120 of 200 from CBS
+INFO 2018-04-08 08:33:37,571 - CBS analysis is: {'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.4003, 'dtime': 'Fri Feb 02 19:03:33 +0000 2018'}
+INFO 2018-04-08 08:33:37,571 - Analyzing tweet 140 of 200 from CBS
+INFO 2018-04-08 08:33:37,741 - CBS analysis is: {'neg': 0.0, 'neu': 0.678, 'pos': 0.322, 'compound': 0.908, 'dtime': 'Wed Jan 31 01:00:35 +0000 2018'}
+INFO 2018-04-08 08:33:37,741 - Analyzing tweet 160 of 200 from CBS
+INFO 2018-04-08 08:33:37,909 - CBS analysis is: {'neg': 0.0, 'neu': 0.926, 'pos': 0.074, 'compound': 0.1531, 'dtime': 'Mon Jan 29 15:00:03 +0000 2018'}
+INFO 2018-04-08 08:33:37,910 - Analyzing tweet 180 of 200 from CBS
+INFO 2018-04-08 08:33:38,065 - Analyzing sentiment for NYTimes
+INFO 2018-04-08 08:33:38,073 - NYTimes analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Sun Apr 08 15:32:02 +0000 2018'}
+INFO 2018-04-08 08:33:38,073 - Analyzing tweet 0 of 200 from NYTimes
+INFO 2018-04-08 08:33:38,236 - NYTimes analysis is: {'neg': 0.0, 'neu': 0.826, 'pos': 0.174, 'compound': 0.2732, 'dtime': 'Sun Apr 08 09:17:06 +0000 2018'}
+INFO 2018-04-08 08:33:38,236 - Analyzing tweet 20 of 200 from NYTimes
+INFO 2018-04-08 08:33:38,401 - NYTimes analysis is: {'neg': 0.101, 'neu': 0.899, 'pos': 0.0, 'compound': -0.5423, 'dtime': 'Sun Apr 08 03:56:21 +0000 2018'}
+INFO 2018-04-08 08:33:38,401 - Analyzing tweet 40 of 200 from NYTimes
+INFO 2018-04-08 08:33:38,572 - NYTimes analysis is: {'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.34, 'dtime': 'Sat Apr 07 22:53:21 +0000 2018'}
+INFO 2018-04-08 08:33:38,572 - Analyzing tweet 60 of 200 from NYTimes
+INFO 2018-04-08 08:33:38,735 - NYTimes analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Sat Apr 07 18:47:06 +0000 2018'}
+INFO 2018-04-08 08:33:38,735 - Analyzing tweet 80 of 200 from NYTimes
+INFO 2018-04-08 08:33:38,900 - NYTimes analysis is: {'neg': 0.09, 'neu': 0.818, 'pos': 0.092, 'compound': 0.0094, 'dtime': 'Sat Apr 07 14:02:09 +0000 2018'}
+INFO 2018-04-08 08:33:38,900 - Analyzing tweet 100 of 200 from NYTimes
+INFO 2018-04-08 08:33:39,063 - NYTimes analysis is: {'neg': 0.226, 'neu': 0.774, 'pos': 0.0, 'compound': -0.5423, 'dtime': 'Sat Apr 07 09:39:49 +0000 2018'}
+INFO 2018-04-08 08:33:39,063 - Analyzing tweet 120 of 200 from NYTimes
+INFO 2018-04-08 08:33:39,244 - NYTimes analysis is: {'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.5574, 'dtime': 'Sat Apr 07 04:03:38 +0000 2018'}
+INFO 2018-04-08 08:33:39,244 - Analyzing tweet 140 of 200 from NYTimes
+INFO 2018-04-08 08:33:39,423 - NYTimes analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Fri Apr 06 23:32:05 +0000 2018'}
+INFO 2018-04-08 08:33:39,424 - Analyzing tweet 160 of 200 from NYTimes
+INFO 2018-04-08 08:33:39,603 - NYTimes analysis is: {'neg': 0.159, 'neu': 0.841, 'pos': 0.0, 'compound': -0.6705, 'dtime': 'Fri Apr 06 19:30:18 +0000 2018'}
+INFO 2018-04-08 08:33:39,603 - Analyzing tweet 180 of 200 from NYTimes
+INFO 2018-04-08 08:33:39,777 - Analyzing sentiment for Fox
+INFO 2018-04-08 08:33:39,785 - Fox analysis is: {'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.2263, 'dtime': 'Sun Apr 08 15:26:29 +0000 2018'}
+INFO 2018-04-08 08:33:39,786 - Analyzing tweet 0 of 200 from Fox
+INFO 2018-04-08 08:33:39,948 - Fox analysis is: {'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019, 'dtime': 'Sun Apr 08 13:50:32 +0000 2018'}
+INFO 2018-04-08 08:33:39,948 - Analyzing tweet 20 of 200 from Fox
+INFO 2018-04-08 08:33:40,116 - Fox analysis is: {'neg': 0.433, 'neu': 0.469, 'pos': 0.097, 'compound': -0.8519, 'dtime': 'Sun Apr 08 12:37:57 +0000 2018'}
+INFO 2018-04-08 08:33:40,116 - Analyzing tweet 40 of 200 from Fox
+INFO 2018-04-08 08:33:40,284 - Fox analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Sun Apr 08 08:53:00 +0000 2018'}
+INFO 2018-04-08 08:33:40,284 - Analyzing tweet 60 of 200 from Fox
+INFO 2018-04-08 08:33:40,447 - Fox analysis is: {'neg': 0.0, 'neu': 0.743, 'pos': 0.257, 'compound': 0.5423, 'dtime': 'Sun Apr 08 07:18:00 +0000 2018'}
+INFO 2018-04-08 08:33:40,447 - Analyzing tweet 80 of 200 from Fox
+INFO 2018-04-08 08:33:40,609 - Fox analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Sun Apr 08 05:43:00 +0000 2018'}
+INFO 2018-04-08 08:33:40,609 - Analyzing tweet 100 of 200 from Fox
+INFO 2018-04-08 08:33:40,777 - Fox analysis is: {'neg': 0.107, 'neu': 0.823, 'pos': 0.07, 'compound': -0.128, 'dtime': 'Sun Apr 08 04:10:00 +0000 2018'}
+INFO 2018-04-08 08:33:40,777 - Analyzing tweet 120 of 200 from Fox
+INFO 2018-04-08 08:33:40,944 - Fox analysis is: {'neg': 0.126, 'neu': 0.769, 'pos': 0.104, 'compound': -0.1027, 'dtime': 'Sun Apr 08 02:14:52 +0000 2018'}
+INFO 2018-04-08 08:33:40,944 - Analyzing tweet 140 of 200 from Fox
+INFO 2018-04-08 08:33:41,107 - Fox analysis is: {'neg': 0.0, 'neu': 0.837, 'pos': 0.163, 'compound': 0.7351, 'dtime': 'Sun Apr 08 00:20:21 +0000 2018'}
+INFO 2018-04-08 08:33:41,107 - Analyzing tweet 160 of 200 from Fox
+INFO 2018-04-08 08:33:41,270 - Fox analysis is: {'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.5423, 'dtime': 'Sat Apr 07 22:41:10 +0000 2018'}
+INFO 2018-04-08 08:33:41,270 - Analyzing tweet 180 of 200 from Fox
+INFO 2018-04-08 08:33:41,428 - Analyzing sentiment for CNN
+INFO 2018-04-08 08:33:41,436 - CNN analysis is: {'neg': 0.167, 'neu': 0.725, 'pos': 0.109, 'compound': -0.2023, 'dtime': 'Sun Apr 08 15:30:09 +0000 2018'}
+INFO 2018-04-08 08:33:41,437 - Analyzing tweet 0 of 200 from CNN
+INFO 2018-04-08 08:33:41,605 - CNN analysis is: {'neg': 0.458, 'neu': 0.542, 'pos': 0.0, 'compound': -0.9136, 'dtime': 'Sun Apr 08 08:00:06 +0000 2018'}
+INFO 2018-04-08 08:33:41,605 - Analyzing tweet 20 of 200 from CNN
+INFO 2018-04-08 08:33:41,767 - CNN analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Sun Apr 08 00:20:06 +0000 2018'}
+INFO 2018-04-08 08:33:41,767 - Analyzing tweet 40 of 200 from CNN
+INFO 2018-04-08 08:33:41,935 - CNN analysis is: {'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.34, 'dtime': 'Sat Apr 07 20:30:05 +0000 2018'}
+INFO 2018-04-08 08:33:41,935 - Analyzing tweet 60 of 200 from CNN
+INFO 2018-04-08 08:33:42,122 - CNN analysis is: {'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.5859, 'dtime': 'Sat Apr 07 16:00:03 +0000 2018'}
+INFO 2018-04-08 08:33:42,122 - Analyzing tweet 80 of 200 from CNN
+INFO 2018-04-08 08:33:42,290 - CNN analysis is: {'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4019, 'dtime': 'Sat Apr 07 10:01:04 +0000 2018'}
+INFO 2018-04-08 08:33:42,290 - Analyzing tweet 100 of 200 from CNN
+INFO 2018-04-08 08:33:42,453 - CNN analysis is: {'neg': 0.082, 'neu': 0.872, 'pos': 0.046, 'compound': -0.3182, 'dtime': 'Sat Apr 07 04:16:01 +0000 2018'}
+INFO 2018-04-08 08:33:42,453 - Analyzing tweet 120 of 200 from CNN
+INFO 2018-04-08 08:33:42,616 - CNN analysis is: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0, 'dtime': 'Sat Apr 07 01:03:02 +0000 2018'}
+INFO 2018-04-08 08:33:42,616 - Analyzing tweet 140 of 200 from CNN
+INFO 2018-04-08 08:33:42,785 - CNN analysis is: {'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.4019, 'dtime': 'Fri Apr 06 23:23:45 +0000 2018'}
+INFO 2018-04-08 08:33:42,785 - Analyzing tweet 160 of 200 from CNN
+INFO 2018-04-08 08:33:42,954 - CNN analysis is: {'neg': 0.289, 'neu': 0.711, 'pos': 0.0, 'compound': -0.8807, 'dtime': 'Fri Apr 06 21:18:25 +0000 2018'}
+INFO 2018-04-08 08:33:42,954 - Analyzing tweet 180 of 200 from CNN
