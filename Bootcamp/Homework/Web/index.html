@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+
+    <div class="topnav" id="myTopnav">
+    <a href="index.html" class="active">Home</a>
+    <a href="plots.html">Plots</a>
+    <a href="comp.html" >Comparison</a>
+    <a href="data.html">Data</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+    </a>
+    </div>
+
+    <table>
+        <tr><td width="60%">
+        <h2>Summary: Latitude vs X</h2>
+        <hr>
+        <p>The purpose of this project was to analyze how weather changes 
+            as you get closer to the equator.  
+            <img src="images/lat_temp.png" alt="Lat vs Temp" width="150" height="150" align="left">
+            To accomplish this analysis, we 
+            first pulled data from teh OpenWeatherMap API to assemble a 
+            dataset on over 500 cities
+    </p>
+    <p>After assembling the dataset, we used Matplotlib to plot various
+        aspects of the weather vs latitude.  Factors we looked at included: 
+        temperature, cloudiness,wind speed, and humidity.  This site proved the 
+        source data and visualizations created as part of the analysis, 
+        as well as explanations and descriptions of any trends and 
+        correlations witnessed.
+    </p>
+    </td>
+    <td width="40%">
+        <h3>Visualizations</h3><hr>
+        <table>
+            <tr>
+                <td><img src="images/lat_wind.png" alt="Lat vs Wind" width="150" height="150"</td>
+            </tr>
+            <tr>
+                <td><img src="images/lat_humidity.png" alt="Lat vs Humidity" width="150" height="150"</td>
+            </tr>
+            <tr>
+                <td><img src="images/lat_clouds.png" alt="Lat vs Clouds" width="150" height="150"</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+    </table>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+</body>
+</html>
