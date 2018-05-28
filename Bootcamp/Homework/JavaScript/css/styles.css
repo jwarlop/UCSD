@@ -7,13 +7,14 @@ body{
     width: 100%;
 }
 
-.tbl_results,td, th {
+.tbl_results td, th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
 }
 
-.tbl_results, tr:nth-child(even) {
+.tbl_results tr:nth-child(even) {
     background-color: #dddddd;
 }
+
 

@@ -1,4 +1,10 @@
+/*
+John M. Warlop
+UCSD Bootcamp Spring 2018
+JavaScript Homework
+Due 6/2/18
 
+*/
 $(document).ready(function(){
     $(".tbl_all").hide();
     $(".tbl_partial").hide();
